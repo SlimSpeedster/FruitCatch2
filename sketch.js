@@ -41,6 +41,9 @@ function draw() {
    if (gameState === 1) {
      clear(); 
      game.play();
+
+      text
+
    }
    if (gameState === 2) {
     
